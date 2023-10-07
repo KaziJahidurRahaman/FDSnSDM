@@ -1,5 +1,5 @@
 # FDSnSDM
-The repository contains my task for the academic course **'Forestry data structures and spatial data models'** of FIT program at **HNEE** assigned my Dr. Evelyn Wallor
+The repository contains my task for the academic course **'Forestry data structures and spatial data models'** of FIT program at **HNEE** assigned by Dr. Evelyn Wallor
 
 ## Objective
 The objective of this work is to conceptually design a soil measurement database which serves to provide easy access to specific types of data as the provided sample. The work also aims to construct the database in such that the consistency and integrity of the data is preserved during the update or deletion of existing data. Finally, it also expects to report on the performance on the developed database.
